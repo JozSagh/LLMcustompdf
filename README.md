@@ -17,4 +17,4 @@ Using a PDF (e.g., Newton’s Laws from Wikipedia), the process is:
 
 ### Example QA 
 LLM Answering from the custom PDF about the Newton's laws:
-<img src="chatllm.png" alt="ChatLLM" width="400"/>
+<br><img src="chatllm.png" alt="ChatLLM" width="400"/>
