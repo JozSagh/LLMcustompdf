@@ -14,7 +14,7 @@ import PyPDF2
 # Variables
 # -----------------------
 local_pdf_path = r"data/Newtonslaws.pdf"
-gpt_model_path = r"D:\Learning\LLMs\modelsLLM\q4_0-orca-mini-3b.gguf"
+gpt_model_path = r"data/q4_0-orca-mini-3b.gguf"
 
 # -----------------------
 # Step 1: Extract text from PDF
