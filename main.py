@@ -11,7 +11,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 import PyPDF2
 
 # -----------------------
-# Variables
+# Variables - PDF and The model path: 
 # -----------------------
 local_pdf_path = r"data/Newtonslaws.pdf"
 gpt_model_path = r"data/q4_0-orca-mini-3b.gguf"
