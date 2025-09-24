@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# PyCharm
+.idea/
+
+# Chroma / cache
+.chromadb/
+
+# Data files
+*.pdf
+data/
